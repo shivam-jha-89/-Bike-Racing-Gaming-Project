@@ -20,7 +20,8 @@ That's it. Run those two commands, open the link it gives you, and you're playin
 
 
 ---
-
+## git clone - https://github.com/shivam-jha-89/-Bike-Racing-Gaming-Project
+## Live Demo - https://bike-racing-gaming-project.vercel.app/
 ## Controls
 
 | Key | Action |
